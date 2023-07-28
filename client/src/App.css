@@ -1,0 +1,22 @@
+.display{
+  margin: 5rem;
+}
+.user{
+  margin: 2rem 0;
+}
+.user p{
+  margin-left: 1rem;
+}
+.createUser{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.createUser input,.createUser button{
+  padding: 10px;
+  margin: 10px 0;
+  width:50%
+}
+.createUser button{
+  width:20%;
+}
